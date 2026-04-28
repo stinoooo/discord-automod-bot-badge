@@ -1,0 +1,7 @@
+{
+    "prefix": "!",
+    "abtin": {
+        "TOKEN": "TOKEN_MOVED_TO_ENV",
+        "ID": "ID_MOVED_TO_ENV"
+    }
+}
